@@ -1,0 +1,21 @@
+# Build Artifacts
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.dSYM/
+*.gch
+*.pch
+
+# Debug and System
+*.su
+*.idb
+*.pdb
+*.d
+.tmp_versions/
